@@ -1,0 +1,25 @@
+# Build
+/build/
+.gradle/
+
+# IDEs
+.idea/
+*.iml
+
+# Logs
+/logs/
+*.log
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Application configuration
+application.yml
+application.properties
+
+# Gradle Wrapper
+gradle/wrapper/gradle-wrapper.jar
+
+# Temporary files
+/tmp/

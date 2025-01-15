@@ -1,10 +1,10 @@
-package com.login.wonchul.demo;
+package com.jwt;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DemoApplicationTests {
+class JwtApplicationTests {
 
 	@Test
 	void contextLoads() {
